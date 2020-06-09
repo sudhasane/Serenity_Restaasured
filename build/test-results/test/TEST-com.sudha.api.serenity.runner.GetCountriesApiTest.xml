@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sudha.api.serenity.runner.GetCountriesApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-09T15:51:32" hostname="DNA.local" time="7.224">
+  <properties/>
+  <testcase name="verifyAllContriesDetails" classname="com.sudha.api.serenity.runner.GetCountriesApiTest" time="7.224"/>
+  <system-out><![CDATA[0
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
